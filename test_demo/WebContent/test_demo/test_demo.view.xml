@@ -3,7 +3,7 @@
 	<Page title="welcome to test Demo">
 		<content>
 	
-	<Label text="Welcome" labelfor="input1"/>
+	<Label text="Welcom_demo" labelfor="input1"/>
 		
 		</content>
 	</Page>
