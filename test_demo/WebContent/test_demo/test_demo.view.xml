@@ -1,0 +1,10 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="test_demo.test_demo" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="welcome to test Demo">
+		<content>
+	
+	<Label text="Welcome" labelfor="input1"/>
+		
+		</content>
+	</Page>
+</core:View>
